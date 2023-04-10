@@ -1,3 +1,27 @@
+### Commands:
+
+
+[https://nodejs.org/en/](https://nodejs.org/en/download)[download](https://nodejs.org/en/download)
+``` bash
+npm install –g @angular/cli
+```
+``` bash
+git clone https://github.com/ceotrammell/Hybrid-Angular-Electron.git
+```
+``` bash
+cd /Hybrid-Angular-Electron
+```
+``` bash
+npm i
+```
+``` bash
+npm start
+```
+  
+  ## Generic Info
+  
+
+
 *Install dependencies with npm (used by Electron renderer process):*
 
 ``` bash
