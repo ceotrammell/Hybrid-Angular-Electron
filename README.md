@@ -1,5 +1,6 @@
-### Commands:
 
+# <i>Info Per Me:</i>
+### Initial commands:
 
 [https://nodejs.org/en/](https://nodejs.org/en/download)[download](https://nodejs.org/en/download)
 ``` bash
@@ -17,9 +18,24 @@ npm i
 ``` bash
 npm start
 ```
-  
-  ## Generic Info
-  
+
+### Angular Framework Info:
+
+https://angular.io/
+
+### React Framework Info:
+
+https://react.dev/
+
+### Vue Framework Info:
+
+https://vuejs.org/
+
+### Common style libraries (outside of ionic):
+https://tailwindcss.com/
+https://getbootstrap.com/
+
+# <i>Info Per Electron:</i>
 
 
 *Install dependencies with npm (used by Electron renderer process):*
